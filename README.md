@@ -1,4 +1,5 @@
 <h1 align="center">Hola 👋, soy Gerson Murguia</h1>
+/header.png
 <h3 align="center">Un apasionado programador web de Perú 🇵🇪.</h3>
 
 <h3 align="left">Conectate conmigo:</h3>
