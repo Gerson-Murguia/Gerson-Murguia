@@ -3,6 +3,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson-murguia&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="gerson-murguia" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323FF25&duration=5000&size=22&lines=Siempre+aprendiendo+nuevas+cosas;Buscando+soluciones+efectivas;Aceptando+nuevos+retos)](https://git.io/typing-svg)
+
+- 🔭 I’m currently working on ****
+
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gersonmurguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersonmurguia" height="30" width="40" /></a>
