@@ -4,8 +4,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2323FF25&duration=5000&size=22&lines=Siempre+aprendiendo+nuevas+cosas;Buscando+soluciones+efectivas;Aceptando+nuevos+retos)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ****
+📖 Acerca de mí:
 
+    🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
+    🎓 Estudiante de Computación e Informática en CIBERTEC, cursando el sexto ciclo.
+    🌐
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
