@@ -15,7 +15,8 @@
 Intentando terminar mi carrera y buscando experiencia profesional.
 ```
 
-## <h3 align="left">Conectate conmigo:</h3>
+## <h3 align="left">📫 Conectate conmigo:</h3>
+Puedes contactarme al 𝚎𝚖𝚊𝚒𝚕 en mi perfil de Github.
 <p align="left">
 <a href="https://linkedin.com/in/gersonmurguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersonmurguia" height="30" width="40" /></a>
 </p>
