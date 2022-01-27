@@ -9,6 +9,11 @@
     🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
     🎓 Estudiante de Computación e Informática en CIBERTEC, cursando el sexto ciclo.
     🌐
+## ⬆ Que estoy haciendo:
+- 🔨 Actualmente...
+```yaml
+Intentando terminar mi carrera y buscando experiencia profesional.
+```
 
 ## <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
