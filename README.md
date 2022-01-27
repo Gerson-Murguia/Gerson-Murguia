@@ -1,9 +1,8 @@
 <h1 align="center"><img src="https://github.com/Gerson-Murguia/Gerson-Murguia/blob/main/header.png" alt="gersonmurguia"/></h1>
 <h3 align="center">Un apasionado programador web de Perú 🇵🇪.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson-murguia&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="gerson-murguia" /> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&duration=4000&lines=Siempre+aprendiendo+nuevas+cosas;Buscando+soluciones+efectivas;Aceptando+nuevos+retos)](https://git.io/typing-svg)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson-murguia&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="gerson-murguia" /> </p>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
