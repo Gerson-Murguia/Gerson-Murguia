@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://github.com/Gerson-Murguia/Gerson-Murguia/blob/main/header.png" alt="gersonmurguia"/></h1>
 <h3 align="center">Un apasionado programador web de Perú 🇵🇪.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson-murguia&label=Profile%20views&color=0e75b6&style=flat" alt="gerson-murguia" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson-murguia&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="gerson-murguia" /> </p>
 
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
