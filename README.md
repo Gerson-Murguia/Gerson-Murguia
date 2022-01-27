@@ -1,8 +1,6 @@
 <h1 align="center"><img src="https://github.com/Gerson-Murguia/Gerson-Murguia/blob/main/header.png" alt="gersonmurguia"/></h1>
 <h3 align="center">Un apasionado programador web de Perú 🇵🇪.</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Apasionado+programador+web;Siempre+aprendiendo+cosas+nuevas)](https://git.io/typing-svg) 
 
 
