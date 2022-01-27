@@ -3,6 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Apasionado+programador+web;Siempre+aprendiendo+cosas+nuevas)](https://git.io/typing-svg) 
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gerson-murguia&label=Vistas%20del%20perfil&color=0e75b6&style=flat" alt="gerson-murguia" /> </p>
 
 <h3 align="left">Conectate conmigo:</h3>
