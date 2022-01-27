@@ -1,5 +1,5 @@
-### Hi there 👋
-
+<h1 align="center">Hola 👋, soy Gerson Murguia</h1>
+<h3 align="center">Un apasionado programador fullstack de Perú.</h3>
 <!--
 **Gerson-Murguia/Gerson-Murguia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
