@@ -1,6 +1,8 @@
 <h1 align="center">Hola 👋, soy Gerson Murguia</h1>
 <h3 align="center">Un apasionado programador web de Perú 🇵🇪.</h3>
 
+<img src="https://github.com/Gerson-Murguia/Gerson-Murguia/blob/main/header.png" alt="gersonmurguia"/>
+
 <h3 align="left">Conectate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gersonmurguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersonmurguia" height="30" width="40" /></a>
