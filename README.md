@@ -12,7 +12,7 @@
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
 ```yaml
-Intentando terminar mi carrera y buscando experiencia profesional.
+Terminando mi carrera y buscando experiencia profesional.
 ```
 
 ## <h3 align="left">📫 Conectate conmigo:</h3>
