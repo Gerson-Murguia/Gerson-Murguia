@@ -8,7 +8,7 @@
 
     🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
     🎓 Estudiante de Computación e Informática en CIBERTEC, actualmente en el décimo superior.
-    🌐 Suelo usar Spring Boot y Angular para desarrollar projectos, aunque siempre estoy interesado en nuevas tecnologias.
+    🌐 Programo principalmente en Spring Boot como backend y Angular como frontend para desarrollar projectos, aunque siempre estoy interesado en nuevas tecnologias.
     
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
