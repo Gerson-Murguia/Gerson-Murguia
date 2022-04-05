@@ -13,7 +13,7 @@
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
 ```yaml
-Terminando mi carrera y buscando experiencia profesional.
+Trabajando como programador en Mercania y terminando mi carrera.
 ```
 
 ## <h3 align="left">📫 Conectate conmigo:</h3>
