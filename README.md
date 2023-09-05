@@ -6,18 +6,19 @@
 
 ## 📖 Acerca de mí:
 
-    🖥 𝙵𝚞𝚕𝚕-𝚜𝚝𝚊𝚌𝚔 web 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛
-    🎓 Estudiante de Computación e Informática en CIBERTEC, actualmente en el décimo superior.
-    🌐 Programo principalmente en Spring Boot como backend y Angular como frontend para desarrollar projectos, aunque siempre estoy interesado en nuevas tecnologias.
+    🖥 Desarrollador Backend.
+    🎓 Egresado de Computación e Informática en CIBERTEC.
+    🌐 Programo principalmente en Spring Boot como backend y Angular como frontend para desarrollar proyectos, aunque siempre estoy interesado en nuevas tecnologias.
     
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
 ```yaml
 Trabajando como Ingeniero de Software Jr en Mercania.
+Aprendiendo DevOps
 ```
 
 ## <h3 align="left">📫 Conectate conmigo:</h3>
-Puedes contactarme al 𝚎𝚖𝚊𝚒𝚕 en mi perfil de Github, tambien puedes enviarme un mensaje por Whatsapp o Linkedin.
+Puedes contactarme al 𝚎𝚖𝚊𝚒𝚕 en mi perfil de Github, tambien puedes enviarme un mensaje por Linkedin.
 <p align="left">
 <a href="https://linkedin.com/in/gersonmurguia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gersonmurguia" height="30" width="40" /></a>
 </p>
