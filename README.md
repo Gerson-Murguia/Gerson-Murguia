@@ -7,7 +7,9 @@
 ## 📖 Acerca de mí:
 
 🖥 Desarrollador Backend.
+
 🎓 Egresado de Computación e Informática en CIBERTEC.
+
 🌐 Desarrollo principalmente software backend con Spring Boot y ASP.NET Core, interesado actualmente en la cultura DevOps.
     
 ## ⬆ Que estoy haciendo:
