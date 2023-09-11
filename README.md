@@ -6,7 +6,7 @@
 
 ## 📖 Acerca de mí:
 
-🖥 Desarrollador Backend.
+🖥 Desarrollador Backend Web, Azure Administrator Associate.
 
 🎓 Egresado de Computación e Informática en CIBERTEC.
 
