@@ -17,9 +17,10 @@
     - Trabajando como Ingeniero de Software Jr en Mercania.
     - Construyendo un emprendimiento de reparación y mantenimiento de equipos informáticos.
     - Aprendiendo DevOps.
+      
 - 🔭 Me encuentro aprendiendo...
-    - Todo lo relacionado a la cultura DevOps.
-    - ~~Docker~~~ 😄
+    - Todo lo relacionado a la cultura DevOps⚡.
+    - ~~Docker~~ 😄
     - ~~Jenkins~~ 😄
     - ~~Azure DevOps~~ 😄
     - Kubernetes.
