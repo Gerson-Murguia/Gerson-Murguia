@@ -14,10 +14,9 @@
     
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
-```yaml
-Trabajando como Ingeniero de Software Jr en Mercania.
-Aprendiendo DevOps
-```
+  
+    - Trabajando como Ingeniero de Software Jr en Mercania.
+    - Aprendiendo DevOps
 
 ## <h3 align="left">📫 Conectate conmigo:</h3>
 Puedes contactarme al 𝚎𝚖𝚊𝚒𝚕 en mi perfil de Github, tambien puedes enviarme un mensaje por Linkedin.
