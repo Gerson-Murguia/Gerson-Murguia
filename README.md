@@ -14,10 +14,15 @@
     
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
-  
     - Trabajando como Ingeniero de Software Jr en Mercania.
     - Construyendo un emprendimiento de reparación y mantenimiento de equipos informáticos.
     - Aprendiendo DevOps.
+- 🔭 Me encuentro aprendiendo...
+    - Todo lo relacionado a la cultura DevOps.
+    - ~~Docker~~~ 😄
+    - ~~Jenkins~~ 😄
+    - ~~Azure DevOps~~ 😄
+    - Kubernetes.
 
 ## <h3 align="left">📫 Conectate conmigo:</h3>
 Puedes contactarme al 𝚎𝚖𝚊𝚒𝚕 en mi perfil de Github, tambien puedes enviarme un mensaje por Linkedin.
