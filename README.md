@@ -6,11 +6,11 @@
 
 ## 📖 Acerca de mí:
 
-🖥 Desarrollador Backend Web, Azure Administrator Associate.
+- Desarrollador Backend Web, Azure Administrator Associate.
 
-🎓 Egresado de Computación e Informática en CIBERTEC.
+- Egresado de Computación e Informática en CIBERTEC.
 
-🌐 Desarrollo principalmente software backend con Spring Boot y ASP.NET Core, interesado actualmente en la cultura DevOps.
+- Desarrollo principalmente software backend con Spring Boot y ASP.NET Core, interesado actualmente en la cultura DevOps.
     
 ## ⬆ Que estoy haciendo:
 - 🔨 Actualmente...
